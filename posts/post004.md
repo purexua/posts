@@ -5,6 +5,8 @@
 > Author: purexua
 >
 > Date: 2024-2-2
+>
+> Tag: **npm** | **mirror install** 
 
 ### 查看当前镜像源
 
