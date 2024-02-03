@@ -6,6 +6,7 @@
 
 #### **2024**
 
+- 006.[关于 Linux 防火墙命令](./posts/post006.md)
 - 005.[bash shell 别名 alias](./posts/post005.md)
 - 004.[使用 npm install 镜像失效](./posts/post004.md)
 
