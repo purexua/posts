@@ -1,12 +1,12 @@
 ## 关于 Linux 防火墙命令
 
-[!TIP]
-
-Author: purexua
-
-Date: 2024-2-3
-
-Tag: **Linux** | **firewall** 
+> [!TIP]
+> 
+> Author: purexua
+> 
+> Date: 2024-2-3
+> 
+> Tag: **Linux** | **firewall** 
 
 **前言：**
 
