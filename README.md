@@ -6,6 +6,7 @@
 
 #### **2024**
 
+- 007.[关于使用 RedisTemplate 涉及到的序列化操作](./posts/post007.md)
 - 006.[关于 Linux 防火墙命令](./posts/post006.md)
 - 005.[bash shell 别名 alias](./posts/post005.md)
 - 004.[使用 npm install 镜像失效](./posts/post004.md)
