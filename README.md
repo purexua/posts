@@ -3,9 +3,12 @@
 > [!TIP]
 >
 > 这里是我在日常开发中，值得记录的东西。
+>
+> 如非特别批注，皆为原创。
 
 #### **2024**
 
+- 008.[一文搞懂 Java 泛型](https://www.cnblogs.com/XiiX/p/14719568.html) - *转载*
 - 007.[关于使用 RedisTemplate 涉及到的序列化操作](./posts/post007.md)
 - 006.[关于 Linux 防火墙命令](./posts/post006.md)
 - 005.[bash shell 别名 alias](./posts/post005.md)
