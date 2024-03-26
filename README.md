@@ -8,6 +8,7 @@
 
 #### **2024**
 
+- 009.[关于 MySQL 如何进行权限管理](./posts/post009.md)
 - 008.[一文搞懂 Java 泛型](https://www.cnblogs.com/XiiX/p/14719568.html) - *转载*
 - 007.[关于使用 RedisTemplate 涉及到的序列化操作](./posts/post007.md)
 - 006.[关于 Linux 防火墙命令](./posts/post006.md)
